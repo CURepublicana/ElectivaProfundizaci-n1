@@ -1,0 +1,14 @@
+{
+  "name": "clase28102020",
+  "version": "1.0.0",
+  "description": "eletron",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electrn"
+  ],
+  "author": "oscarDO",
+  "license": "ISC"
+}
